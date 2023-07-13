@@ -1,0 +1,83 @@
+Algoritmo para hacer una torta
+
+1. Tener los productos necesarios para hacer una torta: Huevos, leche, harina, levadura, saborizante, molde, recipiente, guantes de cocina, batidora y horno/estufa.
+2. Abrir la bolsa de harina y vertir 50 g en el recipiente.
+3. Abrir la caja o bolsa de leche y vertir 50 ml en el recipiente, la cantidad que considere necesaria.
+4. Tomar 5 huevos y romperlos, vertir su clara y yema en el recipiente.
+5. Tomar la batidora por su mango y mezclar los productos agregados en el recipiente anteriormente, hasta obtener una mezcla homogenea.
+6. Abrir la bolsa de levadura y vertir su contenido en el recipiente, sobre la mezcla preparada.
+7. Abrir la bolsa de saborizante y veritr su contenido en el recipiente.
+8. Tomar la batidora por su mango y mezclar todos los productos agregados al recipiente, hasta obtener uns mezcla homogenea.
+9. Tomar el recipiente, cuidadosamente rotandolo vertir la mezcla en el molde para tortas.
+10. Mover el molde que tiene la mezcla dentro, hacia el interior del horno o sobre la estufa.
+11. Encender el horno o estufa, de acuerdo al funcionaminamiento de cada electrodomestico y poner uan temperatura de 150°F.
+12. Esperar 25 minutos y apagar el horno o estufa.
+13. Ponerse los guantes de cocina en las manos.
+14. Tomar el molde de tortas y alejarlo de del horno o estufa, poniendolo sobre una superficie.
+15. Esperar 10 minutos.
+16. Rotar el molde de tortar para sacar la torta del molde, dejando la torta sobre la superficie. 
+
+NOTA: Los datos de cantidades, temperatura y tiempo son imaginarios. 
+
+Algoritmo para lavarse la cara
+1. Estar frente a un recipiente con agua o un dispensador de agua como lavamanos, lavadero o lavaplatos.
+2. Poniendo las manos de forma concava agregar agua en ellas.
+3. Acercar la cara cerca a sus manos y dejar que el agua toque su cara, hasta mojarlas, repita el paso anterior y este las veces que vea necesario.
+4. Tener jabón liquido o en barra.
+5. Tomar el jabón con una mano.
+6. Acercar el jabón, dejando que la toque y extienda el producto por toda su cara, dejando formar espuma.
+7. Soltar el jabón y dejarlo en su lugar apropiado.
+8. Poniendo las manos de forma concava agregar agua en ellas.
+9. Acercar la cara cerca a sus manos y dejar que el agua toque su cara, hasta quitar completamente el jabón, repita el paso anterior y este las veces que vea necesario. 
+10. Tener una toalla o producto para secar.
+11. Tomar la toalla con sus manos y dejar que toque su cara de manera suave, hasta quitar el agua. 
+
+Algoritmo para abrir la nevera
+1. Tener nevera y estar parado frente a ella. 
+2. Con una de sus manos tome la manilla indicada para abrir la puerta, esta varia de lugar, tamaño y forma de acuerdo a su electrodomestico.
+3. Halar de manera suave la manilla, con ella halara la puerta de la nevera.
+4. Soltar la manilla. 
+
+Algoritmo para HACER UN SANWICH de atun
+1. Tener los productos necesarios para hacer un sanwich de atún: Atún, pan tajado cuchillo. 
+2. Abrir la bolsa de pan y sacar 2 panes tajados.
+3. Ponerlos sobre una superficie.
+4. Abrir la lata de atún
+5. Rotar la lata de atun para que su contenido caiga encima de uno de los panes. 
+6. Tomar el cuchillo por su mango. 
+7. Esparcir el atun por el pan con el cuchillo.
+8. Tomar el otro pan con una mano.
+9. Poner el pan que tiene en la mano encima del pan que tiene el atun.
+
+Algoritmo para ir a la tienda mas cercana de tu casa
+1. Acercarse a la puerta que da salida de su casa a la calle.
+2. Abrir la puerta y salir a la calle.
+3. Cerrar la puerta.
+4. Caminar 50 metros, frente a su casa.
+5. Frente a usted vera el letrero de "Tienda".
+6. Acercarse a ella y entrar a la tienda. 
+
+Algoritmo para llegar a tu casa en transporte publico desde la sede de BIT en bogotá
+1. Salir de las instalaciones de BIT y acercarse a la estacion de transmilenio mas cercana.
+2. Acercarse a la ventanilla mas cercana de venta de pasajes de transmilenio y comprar dos pasajes, si no tiene una tarjeta de transmilenio debe comprarla en la misma ventanilla.
+Poner su tarjeta en puerta de ingreso a transmilenio y entrar. 
+3. Acercarse al asesor de transmilenio mas cercano y preguntar que transmilenio lo llevara al portal 80.
+4. Luego de saber el nombre del transmilenio, dirigirse al lugar de la estación donde este parara.
+5. Esperar el transmilenio.
+6. Cuando llegue el transmilenio subirse a este y sentarse si ve una silla vacia.
+7. Esperar que el transmilenio llegue al portal 80.
+8. Bajarse en la estación portal 80.
+9. Pasar las puerta de salida de transmilenio hacia el paradero de buses intermunicipales. 
+10. Esperar un bus que indique como destino Funza, El Hato
+11. Cuando llegue el bus, subirse a este y sentarse en una silla si ve una vacia.
+12. Esperar que el bus llegue al paradero El Hato. 
+13. Cuando llegue al paradero, pararse de su silla, acercarse al conductor, pagarle su pasaje y bajarse del bus.
+14. Salir del paradero de buses.
+15. Caminar 50 metros a la drecha y enontrara un conjunto llamado San Sebastian.
+16. Entrar al conjunto.
+17. Buscar la casa número 15. 
+18. Sacar la llave de la puerta principal de la casa.
+19. Abrir la puertas con la llave.
+20. Entrar a la casa.
+
+
